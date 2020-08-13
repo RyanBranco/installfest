@@ -278,7 +278,6 @@ We will use `pip3` to install Django, a robust web framework for Python. We will
 pip3 install Django
 ```
 
-##MAMP
+## MAMP
 
-[MAMP](https://www.mamp.info/en/windows/)
-MAMP provides you with all the tools you need to run WordPress on your desktop PC for testing or development purposes. You can even easily test your projects on mobile devices
+[MAMP](https://www.mamp.info/en/windows/) provides you with all the tools you need to run WordPress on your desktop PC for testing or development purposes. You can even easily test your projects on mobile devices
