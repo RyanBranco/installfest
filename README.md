@@ -280,4 +280,4 @@ pip3 install Django
 
 ## MAMP
 
-[MAMP](https://www.mamp.info/en/windows/) provides you with all the tools you need to run WordPress on your desktop PC for testing or development purposes. You can even easily test your projects on mobile devices
+[MAMP](https://www.mamp.info/en/windows/) provides you with all the tools you need to run WordPress on your desktop PC for testing or development purposes. You can easily test your projects on mobile devices
