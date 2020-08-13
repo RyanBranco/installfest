@@ -11,7 +11,7 @@ Following tools:
 - MongoDB
 - Python
 - Django
-- MAMP (for wordpress)
+- flywheel (for wordpress)
 
 ## Homebrew
 
@@ -278,6 +278,6 @@ We will use `pip3` to install Django, a robust web framework for Python. We will
 pip3 install Django
 ```
 
-## MAMP
+## Flywheel
 
-[MAMP](https://www.mamp.info/en/windows/) provides you with all the tools you need to run WordPress on your desktop PC for testing or development purposes. You can easily test your projects on mobile devices
+[Flywheel](local.getflywheel.com) provides you with all the tools you need to run WordPress on your desktop PC for testing or development purposes. You can easily test your projects on mobile devices
