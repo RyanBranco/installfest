@@ -1,4 +1,4 @@
-# installfest
+# Installfest
 This is all of the installation needed to begin web development
 
 
