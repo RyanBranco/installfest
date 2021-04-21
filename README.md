@@ -84,6 +84,8 @@ Next, configure git to use this file:  `git config --global core.excludesfile ~/
 
 Finally, lets put some good stuff in there (`.gitignore_global`):
 
+To open and edit file `cd ~` to get to your root directory, then `open .gitignore_global`. Paste the following contents:
+
 ```sh
 # This is a list of rules for ignoring files in every Git repositories on your computer.
 # See https://help.github.com/articles/ignoring-files
