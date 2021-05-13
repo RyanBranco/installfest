@@ -1,5 +1,5 @@
 # Installfest
-Things to install on a new computer to begin web developemnt.
+Software installations necessary for the basics of web development.
 
 Following tools:
 - Homebrew
