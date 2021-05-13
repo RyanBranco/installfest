@@ -1,5 +1,5 @@
 # Installfest
-This is all of the installation needed to begin web development.
+Things to install for a new computer to begin web developemnt.
 
 Following tools:
 - Homebrew
